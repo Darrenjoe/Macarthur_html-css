@@ -1,0 +1,38 @@
+/* CSS Document */
+body{ font-family:"Times New Roman", Times, serif;padding:0; margin:0;text-align:center; background-color:rgb(255,255,255);}
+h1{color:#000000; font-size:30px;}
+h2{color:#000000; font-size:26px;}
+h3{color:#000000; font-size:20px;}
+header{width:100%; height:80px; background:rgb(56,91,123);box-shadow:0 1px 10px gray; position:fixed; top:0px;}
+.top_r{max-width:90%;min-width:1200px; margin:0 auto 0;}
+.top_1{float:left; margin-top:10px;}
+.logo_z{float:left; margin:10px 0 0 5px;}
+.top_2{float:right;height:35px;width:485px;margin-top:30px; line-height:30px;font-size:20px; text-align:right;}
+.top_2 a{ text-decoration:none; color:#FFFFFF;}
+.top_2 a:hover{font-size:26px; color:#0066FF;}
+main{width:100%; height:auto; margin:80px auto 0; background:rgb(245,245,245); padding-top:20px;}
+.pro_1{width:100%; height:auto; padding-bottom:20px;}
+.pro_1 h1{font-size:46px; text-shadow:gray 2px 2px 2px;}
+.pro_c{width:100%; margin:0 0 0 0; background:rgb(255,255,255);}
+.pro_c_1{ width:1200px;margin:0 auto 0; text-align:left; padding:40px 0 40px 0;}
+.pro_c_1 h1{font-size:40px; text-shadow:gray 2px 2px 2px; color:#FF0000;} 
+.pro_c_1 h2{font-size:30px;}
+.pro_c_1 h3{font-size:26px; font-weight:300;}
+.pro_4{ width:100%; padding-top:20px; padding-bottom:20px;}
+.t_show{width:1200px; margin:0 auto 28px;}
+.t_show h1{ font-size:24px; float:left; margin:0 0 5px 0; text-align:left;}
+table.show{width:1200px;margin:0 auto 0;border-collapse:collapse;border:1px solid #aaa;}
+table.show td{vertical-align:middle;padding:6px 6px 6px 6px;border:1px solid #aaa; font-size:26px;}
+table.show td:nth-child(2n){text-align:left; width:900px;}
+table.show tr:nth-child(odd) {background-color:#F5F5F5;}
+table.show tr:nth-child(even) {background-color:#fff;}
+footer{width:100%; height:auto; margin:0 auto 0; padding-bottom:15px; padding-top:30px;background:rgb(56,91,123);}
+.logo_t{background-position:center; background-repeat:no-repeat; background-image:url(../img/logo3.png);background-size:160px 130px; width:912px; height:150px; margin:0 auto 0;}
+.learn{float:left; text-align:left;}
+.learn h1{ font-size:22px; color:#FFFFFF;}
+.learn h2{font-size:16px; color:#FFFFFF; font-weight:300;}
+.connect{float:right; text-align:left;}
+.connect h1{  font-size:22px; color:#FFFFFF;}
+.connect h2{ font-size:16px; color:#FFFFFF; font-weight:300;}
+.copyright{ background:rgb(56,91,123); height:30px; clear:both; width:100%;}
+.copyright h3{color:#FFFFFF;font-size:14px; line-height:40px; width:400px; margin:0 auto 0;}

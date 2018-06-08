@@ -1,0 +1,41 @@
+/* CSS Document */
+body{ font-family:"Times New Roman", Times, serif;padding:0; margin:0;text-align:center; background-color:rgb(255,255,255);}
+h1{color:#000000; font-size:30px;}
+h2{color:#000000; font-size:26px; font-weight:300;}
+h3{color:#000000; font-size:20px;}
+header{width:100%; height:900px;background-image:url(../image/photo_3_3.png); background-size:100% 1000px; background-repeat:no-repeat; margin:0 auto 0;}
+.top{max-width:90%; min-width:1300px; height:130px; margin:0 auto 0;}
+.top_1{float:left;width:160px; margin-top:10px;}
+.logo_z{float:left; margin:20px 0 0 0;}
+.top_2{float:right;height:35px;width:600px;margin:50px 0 0 0; line-height:35px;font-size:28px; text-align:right;}
+.top_2 a{ text-decoration:none; color:#FFFFFF;}
+.top_2 a:hover{font-size:30px; color:#0066FF;}
+.slogan{ max-width:71%;min-width:1200px; height:300px; margin:400px auto 0; text-align:center;}
+.slogan h1{color:#FFFFFF; font-size:60px;}
+main{width:100%; height:auto;}
+main a{text-decoration:none;}
+main a:hover{ text-decoration:underline;}
+.intro{width:100%; height:auto; padding:20px 0 20px 0; margin:0 auto 0; background-color:rgb(245,245,245);}
+.intro_1{max-width:70%; min-width:1200px; height:auto; margin:0 auto 0; line-height:38px;}
+.intro_1 h1{text-shadow:silver 2px 2px 2px; font-family:Georgia, "Times New Roman", Times, serif;}
+.intro_1 h2{text-align:left; font-size:22px;}
+.adv_1{width:100%; height:295px; padding:70px 0 0 0; margin:0 auto 0;}
+.adv_r{width:1200px;margin:0 auto 0;}
+.adv_1_1{float:left;}
+.adv_1_2{float:right;}
+.adv_2{width:100%; height:295px; padding:70px 0 0 0; margin:0 auto 0;background-color:rgb(245,245,245);}
+.adv_2_1{float:left;}
+.adv_2_2{float:right;}
+.adv_3{width:100%; height:295px; padding:70px 0 0 0; margin:0 auto 0;}
+.adv_3_1{float:left;}
+.adv_3_2{float:right;}
+footer{width:100%; height:auto; margin:0 auto 0; padding-bottom:15px; padding-top:30px;background:rgb(56,91,123);}
+.logo_t{background-position:center; background-repeat:no-repeat; background-image:url(../img/logo3.png);background-size:160px 130px; width:912px; height:150px; margin:0 auto 0;}
+.learn{float:left; text-align:left;}
+.learn h1{ font-size:22px; color:#FFFFFF;}
+.learn h2{font-size:16px; color:#FFFFFF; font-weight:300;}
+.connect{float:right; text-align:left;}
+.connect h1{  font-size:22px; color:#FFFFFF;}
+.connect h2{ font-size:16px; color:#FFFFFF; font-weight:300;}
+.copyright{ background:rgb(56,91,123); height:30px; clear:both; width:100%;}
+.copyright h3{color:#FFFFFF;font-size:14px; line-height:40px; width:400px; margin:0 auto 0;}
